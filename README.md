@@ -10,6 +10,34 @@ Skills: HTML5 · Cascading Style Sheets (CSS)
 
 [GitHub - hkmarcoot/scrimba-solo-projects](https://github.com/hkmarcoot/scrimba-solo-projects)
 
+## IT Career Switch Project - Company Directory
+
+Jun 2025 - Aug 2025
+
+Associated with IT Career Switch
+
+This is an application that allows users to manage personnel, departments, and locations. Users can read, add, edit, and delete records through a user-friendly interface. Search and filter functionalities are also available.
+
+Skills: PHP · AJAX · jQuery · Bootstrap (Framework) · HTML5 · Cascading Style Sheets (CSS) · JavaScript · MySQL
+
+<img src="./img/company-directory-01.jpg" alt="isolated" width="200"/>
+<img src="./img/company-directory-02.jpg" alt="isolated" width="200"/>
+<img src="./img/company-directory-03.jpg" alt="isolated" width="200"/>
+
+## IT Career Switch Project - Gazetteer
+
+Apr 2025 - Jun 2025
+
+Associated with IT Career Switch
+
+A web application that allows users to search for and view information about countries, including their borders, capital city, region, languages, population, country area, currency, and coat of arms. Users can access selected country weather, currency, Wikipedia, news, and snapshots.
+
+Skills: PHP · AJAX · Bootstrap (Framework) · jQuery · HTML5 · JavaScript · Cascading Style Sheets (CSS)
+
+<img src="./img/gazetteer-01.jpg" alt="isolated" width="200"/>
+<img src="./img/gazetteer-02.jpg" alt="isolated" width="200"/>
+<img src="./img/gazetteer-03.jpg" alt="isolated" width="200"/>
+
 ## EasyA x Polkadot London Hackathon 2025 - Astartes.Dot
 
 Apr 2025 - Apr 2025
