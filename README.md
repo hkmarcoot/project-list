@@ -4,14 +4,11 @@
 
 Jul 2024 - Present
 
-The Solo Projects are included in the Frontend Developer Career Path in Scrimba, their flagship course teaching programmer to be a junior frontend developer.
-
-The project applies what I learned in the CSS courses. Scrimba provided me a Figma design, and the goal is to create a web page with HTML and CSS that is as close to the same design as possible.
+Part of the solo projects are included in the Frontend Developer Career Path in Scrimba.
 
 Skills: HTML5 · Cascading Style Sheets (CSS)
 
-[Scrimba - Solo Project - Basketball ScoreBoard](https://v2.scrimba.com/s0v81dffvp)\
-[Scrimba - Solo Project - Hometown Homepage](https://v2.scrimba.com/s0nishp1a7)
+[GitHub - hkmarcoot/scrimba-solo-projects](https://github.com/hkmarcoot/scrimba-solo-projects)
 
 ## EasyA x Polkadot London Hackathon 2025 - Astartes.Dot
 
