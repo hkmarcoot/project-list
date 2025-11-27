@@ -1,10 +1,10 @@
 # project-list
 
-## Scrimba Solo Projects - Frontend Developer Career Path
+## Scrimba Solo Projects
 
 Jul 2024 - Present
 
-Part of the solo projects are included in the Frontend Developer Career Path in Scrimba.
+Solo projects from my learning in Scrimba are recorded in this repo.
 
 Skills: HTML5 · Cascading Style Sheets (CSS)
 
