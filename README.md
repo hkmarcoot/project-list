@@ -286,6 +286,8 @@ Associated with School Of Code
 
 A group project that saves our valuable links and notes from the School Of Code lessons in an organised way.
 
+<img src="./img/link-worthy-screenshot.png" alt="isolated" width="300"/>
+
 [GitHub - SchoolOfCode/national-project-week-link-worthy-back-end](https://github.com/SchoolOfCode/national-project-week-link-worthy-back-end)\
 [GitHub - SchoolOfCode/national-project-week-link-worthy-front-end](https://github.com/SchoolOfCode/national-project-week-link-worthy-front-end)
 
