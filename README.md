@@ -1,15 +1,5 @@
 # project-list
 
-## Scrimba Solo Projects
-
-Jul 2024 - Present
-
-Solo projects from my learning in Scrimba are recorded in this repo.
-
-Skills: HTML5 · Cascading Style Sheets (CSS)
-
-[GitHub - hkmarcoot/scrimba-solo-projects](https://github.com/hkmarcoot/scrimba-solo-projects)
-
 ## IT Career Switch Project - Company Directory
 
 Jun 2025 - Aug 2025
@@ -52,49 +42,10 @@ Astartes can operate independently or complement other systems like centralized 
 [Astartes.Dot Demo Video](https://www.youtube.com/watch?v=IvcoDx7RJIk)\
 [GitHub - The-Six/astartes_dot](https://github.com/The-Six/astartes_dot)
 
-## Codecademy Learning - jQuery, Python 3, PHP, Bootstrap, Java, C#
-
-Feb 2025 - Mar 2025
-
-Continue the learning and completing projects after the Full-Stack Engineer Career Path on Codecademy.
-
-[GitHub - hkmarcoot/100-days-of-code-2nd](https://github.com/hkmarcoot/100-days-of-code-2nd)
-
-## Codecademy Learning - Full Stack Engineer Career Path
-
-Sep 2024 - Feb 2025
-Finish the projects listed in the course along with the learning.
-
-[GitHub - hkmarcoot/100-days-of-code-2nd](https://github.com/hkmarcoot/100-days-of-code-2nd)
-
-## Codecademy Code Challenge
-
-Oct 2024 - Oct 2024
-
-Joined Event:
-Spooktober Code Challenge
-Create pumpkin ASCII art.
-
-[GitHub - hkmarcoot/100-days-of-code-2nd](https://github.com/hkmarcoot/100-days-of-code-2nd)
-
-## Codewars Challenges, TypeScript Challenges and University of Code Challenges
-
-May 2023 - Oct 2024
-A collection of daily coding challenges, updated on weekdays - Part of my 2nd 100 days of code challenge on X.
-
-Skills: Github · JavaScript · Jest · Mocha (JavaScript Framework) · Chai
-
-[2nd 100 days of code challenge on X](https://twitter.com/marcotsang112)\
-[GitHub - hkmarcoot/100-days-of-code-2nd](https://github.com/hkmarcoot/100-days-of-code-2nd)
-
 ## Friend Of Two - AI Powered Mutual Friend - Zero to One Hackathon by Convex Vol 2 in 2024
 
 Sep 2024 - Sep 2024
 
-Inspiration
-Have you ever tried to get to know a new person but need more confirming information? Those who say they have known that person for a long time may not even have a deep understanding of him/her! With the power of AI, we can now create an AI-powered mutual friend to help solve this problem and make making a new friend easier. The AI is tailor-made by you so that what you like / dislike can be understood by anyone who wants to get close to you.
-
-What it does
 Users will create a chatroom with their tailor-made AI mutual friends by filling in their hobbies, interests, hates, and anything they want others to know. Other app users can enter the chatroom and ask questions about the AI owner. The AI mutual friend will reply to any question with the information given by the owner.
 
 Skills: Convex · Convex Auth · React Native · TypeScript · iOS · Android · OpenAI
@@ -198,37 +149,6 @@ Skills: React.js · Tailwind CSS · JavaScript
 
 [GitHub - hkmarcoot/gnews-app](https://github.com/hkmarcoot/gnews-app)
 
-## Frontend Mentor Projects
-
-Oct 2022 - Jan 2023
-
-I have practised on several frontend projects using the Frontend Mentor platform.
-
-[Frontend Mentor Profile](https://www.frontendmentor.io/profile/hkmarcoot)\
-[Frontend Mentor - Sunnyside Agency Landing Page](https://github.com/hkmarcoot/fementor-sunnyside-agency-landing-page)\
-[Frontend Mentor - Base Apparel Coming Soon Page](https://github.com/hkmarcoot/fementor-base-apparel-coming-soon-master)\
-[Frontend Mentor - Product Preview Card Component](https://github.com/hkmarcoot/fementor-product-preview-card-component)\
-[Frontend Mentor - QR Code Component](https://github.com/hkmarcoot/fementor-qr-code)
-
-## Scrimba Event - JavaScriptmas 2022
-
-Dec 2022 - Dec 2022
-
-A 24-day coding challenge from Scrimba to celebrate Xmas and win prizes.
-
-[GitHub - hkmarcoot/100-days-of-code-2nd](https://github.com/hkmarcoot/100-days-of-code-2nd)
-
-## ManyPets Hackathon in 2022
-
-Sep 2022 - Sep 2022
-
-A hackathon aiming to get hired by ManyPets insurance company as a Frontend Developer.
-
-Skills: React.js · Cascading Style Sheets (CSS) · HTML5 · Node.js · Express.js · PostgreSQL
-
-[GitHub - hkmarcoot/manypets-backend](https://github.com/hkmarcoot/manypets-backend)\
-[GitHub - hkmarcoot/manypets-frontend](https://github.com/hkmarcoot/manypets-frontend)
-
 ## Percayso Interview 1 - Your News App
 
 Sep 2022 - Sep 2022
@@ -239,29 +159,6 @@ A simple news web app to search for news and articles using gnews.io API.
 
 [GNews1 Demo Website](https://newsapp-marco-tsang.netlify.app/)\
 [GitHub - hkmarcoot/hackathon-yournewsapp](https://github.com/hkmarcoot/hackathon-yournewsapp)
-
-## Lost And Found - Couchbase Hackathon in 2022
-
-Aug 2022 - Aug 2022
-
-A Lost And Found project showcasing the use of Couchbase Capella - a NoSQL cloud database.
-
-Skills: Couchbase · Couchbase Capella · React.js
-
-[GitHub - hkmarcoot/CBhackathon-backend](https://github.com/hkmarcoot/CBhackathon-backend)\
-[GitHub - hkmarcoot/CBhackathon-frontend](https://github.com/hkmarcoot/CBhackathon-frontend)
-
-## 1st 100 Days of Code Challenge
-
-Nov 2021 - Mar 2022
-
-Associated with School Of Code
-
-I recorded what I learned in the 16-week School Of Code training in this repo.
-
-Skills: React.js · Cascading Style Sheets (CSS) · JavaScript · Jest · Node.js · Express.js · PostgreSQL · MongoDB · HTML5
-
-[GitHub - hkmarcoot/100-days-of-code](https://github.com/hkmarcoot/100-days-of-code)
 
 ## School Of Code Final Group Project - Xpeerience app
 
@@ -327,44 +224,6 @@ Skills: App Inventor
 <img src="./img/app-inventor-02.jpeg" alt="isolated" width="300"/>\
 <img src="./img/app-inventor-03.jpeg" alt="isolated" width="300"/>
 
-## Baked Tales - Android Game Developed with Unity
-
-Nov 2019 - Jan 2020
-
-Associated with Feva Works IT Education Centre
-
-A 2D platformer game like the Mario. User controls chef dog to fight enemies, collect food and reach the end point to complete the game.
-
-Skills: Unity · C# · Android
-
-<img src="./img/bakedtales-01.jpeg" alt="isolated" width="200"/>
-<img src="./img/bakedtales-02.jpeg" alt="isolated" width="200"/>
-
-[GitHub - hkmarcoot/BakedTalesPlayerController](https://github.com/hkmarcoot/BakedTalesPlayerController)
-
-## 3 Games Made with Unity in .exe File Format (Chinese Language)
-
-Jul 2019 - Sep 2019
-
-Associated with Feva Works IT Education Centre
-
-Final projects for passing the Certificate in Unity Game Design and Development course.
-
-1.Room Escape:
-Download Link: https://1drv.ms/u/s!AhtUYa1WFdeYg-1SuXec9hpHVyhnUg?e=r39X4l
-
-2.90s HK Online Game Q&A:
-Download Link: https://1drv.ms/u/s!AhtUYa1WFdeYg-1TittDpyePTtAhmg?e=EbXknz
-
-3.Terrain & Unity Summer Camp:
-Download Link: https://1drv.ms/u/s!AhtUYa1WFdeYg-1aLgKhjjmzndZgkg?e=NBpvDs
-
-Skills: Unity · C#
-
-<img src="./img/world-map-01.jpeg" alt="isolated" width="300"/>\
-<img src="./img/world-map-02.jpeg" alt="isolated" width="300"/>\
-<img src="./img/world-map-03.jpeg" alt="isolated" width="300"/>
-
 ## Electronic Bookcrossing Box - Secondary School IoT Design Compeition 2017
 
 Feb 2017 - Apr 2017
@@ -392,16 +251,6 @@ Create a program in Python that can adjust the contrast of NASA's space image so
 <img src="./img/astronomy-05.jpeg" alt="isolated" width="300"/>\
 <img src="./img/astronomy-06.jpeg" alt="isolated" width="300"/>\
 <img src="./img/astronomy-07.jpeg" alt="isolated" width="300"/>
-
-## Electronic and Electrical Engineering Learning
-
-Jun 2012 - Aug 2012
-
-Learn EEE by working with the teaching assistant to control a remote-controlled car using a computer and programming instead of the original remote car controller. The second task was to try to make the three-phase motor work using wires, electrical components and a breadboard. The last task, which was not about EEE, was to redesign the mechanism of a flute-playing robot.
-
-<img src="./img/eee-01.jpeg" alt="isolated" width="300"/>\
-<img src="./img/eee-02.jpeg" alt="isolated" width="300"/>\
-<img src="./img/eee-03.jpeg" alt="isolated" width="300"/>
 
 ## First Programming Project - Dictionary Program Built with C
 
