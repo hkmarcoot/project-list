@@ -1,5 +1,15 @@
 # project-list
 
+## Notion Clone
+
+Dec 2025 - Mar 2026
+
+A web application that allows users to create, edit, and manage notes and pages in a Notion-like interface.
+
+Skills: Next.js · React.js · TypeScript · Tailwind CSS · Shadcn/ui · Clerk · Firestore DB · Cloudflare Workers · Liveblocks · Blocknote · Hono · OpenAI
+
+<img src="./img/notion-clone.png" alt="isolated" width="300"/>
+
 ## IT Career Switch Project - Company Directory
 
 Jun 2025 - Aug 2025
